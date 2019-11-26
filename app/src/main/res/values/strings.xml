@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="title_login">Login</string>
+    <string name="bottom_nav_1">BM1</string>
+    <string name="bottom_nav_2">BM2</string>
+    <string name="bottom_nav_3">BM3</string>
+    <string name="title_signup">SignUp</string>
+    <string name="alert">\"\"</string>
+    <string name="ok">Okay</string>
+    <string name="loadingDilaogTitle">Working...</string>
+
+</resources>
